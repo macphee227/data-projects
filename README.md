@@ -1,6 +1,3 @@
-# data-projects
-Personal data projects using python and tableau for data cleaning, analysis and visualization
-
 ## project_goodreads
 Preparation, analysis and visualization of a dataset of 20,000 popular books scraped from the website goodreads.com
 * The ipython notebook can be found [here](https://github.com/macphee227/data-projects/blob/master/project_goodreads.ipynb)
