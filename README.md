@@ -6,7 +6,3 @@ Preparation and analysis of my personal chess data which I downloaded from liche
 ## project_goodreads
 Preparation and analysis of a dataset of 20,000 popular books scraped from the website goodreads.com
 * The ipython notebook can be found [here](https://github.com/macphee227/data-projects/blob/master/project_goodreads.ipynb)
-
-## project_imdb_top_tv
-Scraping and preparation of data on the top rated TV shows of all time from IMDB.
-* The ipython notebook can be found [here](https://github.com/macphee227/data-projects/blob/master/project_imdb_top_tv.ipynb)
