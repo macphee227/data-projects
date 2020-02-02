@@ -4,5 +4,5 @@ Preparation and analysis of my personal chess data which I downloaded from liche
 * The resulting Tableau visualizations can be found [here](https://github.com/macphee227/data-projects/blob/master/project_chess_elo_RATING.png) and [here](https://github.com/macphee227/data-projects/blob/master/project_chess_elo_OPENINGS.png).
 
 ## project_goodreads
-Preparation and exploratory data analysis of a dataset of 20,000 popular books scraped from the website goodreads.com
+Preparation and analysis of a dataset of 20,000 popular books scraped from the website goodreads.com
 * The ipython notebook can be found [here](https://github.com/macphee227/data-projects/blob/master/project_goodreads.ipynb)
