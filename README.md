@@ -11,6 +11,6 @@ Preparation and analysis of my personal chess data downloaded from lichess.org. 
 
 ## project_goodreads
 Preparation and analysis of 20,000 books scraped from the website goodreads.com.
-* The ipython notebook can be found [here](https://github.com/macphee227/data-projects/blob/master/project_goodreads.ipynb)
+* The ipython notebook can be found [here](https://github.com/macphee227/data-projects/blob/master/project_goodreads.ipynb).
 
 
